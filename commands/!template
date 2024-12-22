@@ -1,0 +1,7 @@
+module.exports = {
+  name: "Name Here",
+  description: "Description here",
+  async execute(Discord, client, message, args, utility) {
+    //Code Here
+  }
+}
